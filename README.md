@@ -23,14 +23,17 @@
         This option was done by the <a href="https://github.com/phNam2/Summer2016/blob/master/Converting_Image/src/experiment/Control_Convert.java">Control_Convert.java</a> file. You can actually change the number in the file if you want to get to the range of color number and get the version of picture if you want. I originally plan to create a panel to do this easier, but then forget about it on the way. The range is in the <strong>Drawing</strong> method and change the range of the RGB. Here is the result with the range of 50:
         <p><img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/pic/3.PNG" width="480px" height="270px"/></p>
     </li>
-<li><h4>Double picture</h4>
-    This method a create just becaue I want to compare the original with the altered one, as a way to test. The file is <a href="https://github.com/phNam2/Summer2016/blob/master/Converting_Image/src/experiment/Double_Picture.java">Double_Picture.java</a> and the result is:
-    <p><img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/pic/4.PNG" width="960px" height="270px"/></p>
-</li>    
-<li><h4>Pencil sketch</h4>
-
-</li>
+    <li><h4>Double picture</h4>
+        This method a create just becaue I want to compare the original with the altered one, as a way to test. The file is <a href="https://github.com/phNam2/Summer2016/blob/master/Converting_Image/src/experiment/Double_Picture.java">Double_Picture.java</a> and the result is:
+        <p><img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/pic/4.PNG" width="960px" height="270px"/></p>
+    </li>    
+    <li><h4>Pencil sketch</h4>
+        This one is a little tricky because this means the color is even more reduce than before, and too much color can make the whole sketch become chaotic. This is why I made use 2 files for this. First, I used the <a href="https://github.com/phNam2/Summer2016/blob/master/Converting_Image/src/experiment/Image_Reduced.java">Image_Reduced.java</a> file to make the color becoming as less as possible, such as:
+        <p><img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/experiment1(picture)/product6/sample3.png" width="480px" height="270px"/></p>
+        And then, after I got the raw picture, I will use the file <a href="https://github.com/phNam2/Summer2016/blob/master/Converting_Image/src/experiment/Pencil_Sketch.java">Pencil_Sketch.java</a> to loop through it. Bascally, the code will compare the current pixel to it previous one. If the pixel have the same color, the current picture will become white. However, if they are different, the picture will become black. And here is the result:
+        <p><img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/pic/5.PNG" width="480px" height="270px"/></p>
+        You can change the range of the color in the <strong>Image_Reduced</strong> file to get a new raw file. The one I have in my file range is 50. But we also have another sample will be:
+        <p><img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/experiment1(picture)/product3/sample1.png" width="480px" height="270px"/></p>
+    </li>
 
 </ul>
-
-<p><img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/pic/5.PNG" width="480px" height="270px"/></p>
