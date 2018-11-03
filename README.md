@@ -53,11 +53,13 @@ And here is the result:
         <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/gif/8.png" width="150px" height="150px" float="left" postion="relative"/>
         <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/gif/9.png" width="150px" height="150px" float="left" postion="relative"/>
     </p>
+And in the <a href="https://github.com/phNam2/Summer2016/blob/master/Converting_Image/src/experiment_giff/Create_Gif.java">Create_Gif</a> file, you can create a gif from a list of picture. However, for now, what I do is only decode the gif and then resemble them in the file. I have not created a method that access a specific flder yet.
 </p>
 <br/>
 
-
-
+<h2>Part 3: Making video</h2>
+<p>
+<p/>
 
 
 
