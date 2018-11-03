@@ -73,7 +73,7 @@ In the end, I have done all the file inside the <a href="https://github.com/phNa
         <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/video/frame_22.png" width="150px" height="150px" float="left" postion="relative"/>
     </p>
 And also in that file, you can use the <strong>makeVideo</strong> method to make a video with no sound, because like the gif, I have not make a method to access folder yet. Here is a <a href="https://github.com/phNam2/Summer2016/blob/master/image/video/Pikachu.mp4">sample</a>.<br/>
-And for the audio, I also made <a href="https://github.com/phNam2/Summer2016/blob/master/Converting_Image/src/experiment_video/Audio.java">Audio.java</a> file that can extract the file out of the video. You can add the location of the mp4 file you want to extract and the mp3 you want to store. And here is the <a href="https://github.com/phNam2/Summer2016/blob/master/image/video/Pikachu.mp3">sample</a>.
+And for the audio, I also made <a href="https://github.com/phNam2/Summer2016/blob/master/Converting_Image/src/experiment_video/Audio.java">Audio.java</a> file that can extract the a out of the video. You can add the location of the mp4 file you want to extract and the mp3 you want to store. And here is the <a href="https://github.com/phNam2/Summer2016/blob/master/image/video/Pikachu.mp3">sample</a>.
 </p>
 
 
