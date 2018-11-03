@@ -24,7 +24,8 @@
         <p><img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/pic/3.PNG" width="480px" height="270px"/></p>
     </li>
 <li><h4>Double picture</h4>
-
+    This method a create just becaue I want to compare the original with the altered one, as a way to test. The file is <a href="https://github.com/phNam2/Summer2016/blob/master/Converting_Image/src/experiment/Double_Picture.java">Double_Picture.java</a> and the result is:
+    <p><img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/pic/4.PNG" width="960px" height="270px"/></p>
 </li>    
 <li><h4>Pencil sketch</h4>
 
@@ -32,6 +33,4 @@
 
 </ul>
 
-<p><img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/pic/3.PNG" width="480px" height="270px"/></p>
-<p><img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/pic/4.PNG" width="960px" height="270px"/></p>
 <p><img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/pic/5.PNG" width="480px" height="270px"/></p>
