@@ -1,3 +1,4 @@
 # Summer2016-Picture Altering project
 
-![Image](image/pic/1.png "icon")
+[alt text](https://github.com/phNam2/Summer2016/image/pic/1.png)
+<!--![Image](image/pic/1.png "icon")-->
