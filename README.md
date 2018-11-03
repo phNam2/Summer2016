@@ -10,9 +10,10 @@
 <p>So, the concept here is that in the normal picture, we can have many pixels that represent one color, such as blue. However, those "blue" have different RGB values. So, I get all of those blue pixels, compare to the color blue in my folder, and turn them into that one blue. Basically, to make a more animated version the real-world image, we have to make similar pixels become the same.</p><br/>
 
 <p>After a while, I have created a bunch of class to do different way of alternating picture.</p>
-<p>We have an original picture:</p>
-<p><img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/pic/1.PNG" width="480px" height="270px"/></p>
+<p>If you want to try all of the method at one, you can download the whole <a href="https://github.com/phNam2/Summer2016/tree/master/Converting_Image">Converting_Image</a> folder, and fo to the <a href="https://github.com/phNam2/Summer2016/blob/master/Converting_Image/src/experiment/index.java">index.java</a> file in the Converting_Image/src/experiment path. Before you run the code, you will  need to choose the path for your picture in the main method. And when you run it, it will ask you the number as a way to which method you want to use, and it will show up in a panel.<br/></p>
 
+<p>Now, I have some examples here. We have an original picture:</p>
+<p><img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/pic/1.PNG" width="480px" height="270px"/></p>
 <ul>
 <li><h4>Automatic Altering</h4>
     
