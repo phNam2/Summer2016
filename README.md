@@ -2,4 +2,4 @@
 
 
 
-<p><img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/pic/1.PNG" width="320px" height="180px"/></p>
+<p><img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/pic/1.PNG" width="400px" height="225px"/></p>
