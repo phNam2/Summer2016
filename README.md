@@ -16,8 +16,8 @@
 <p><img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/pic/1.PNG" width="480px" height="270px"/></p>
 <ul>
 <li><h4>Automatic Altering</h4>
-    The first one is automatic convert, it is the <a href="https://github.com/phNam2/Summer2016/blob/master/Converting_Image/src/experiment/Automatic_Convert.java">Automatic_Convert.java</a> file and just like the name, it will make the original picture become more painting like, here is the result:
-    
+    The first one is automatic convert, it is the <a href="https://github.com/phNam2/Summer2016/blob/master/Converting_Image/src/experiment/Automatic_Convert.java">Automatic_Convert.java</a> file and just like the name, it will make the original picture become more painting like and you don't need to change the code. Here is the result:
+    <p><img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/pic/1.PNG" width="480px" height="270px"/></p>
 </li>
 
 <li><h4>Convert by choice</h4>
