@@ -78,6 +78,6 @@ I also plan to find a way to combine the video and audio file into one, in the <
 </p><br/>
 
 <h2>In Conclusion</h2>
-<p>My idea when making this project is to turn a real-life video into something more animated, and I was very closed until I stuck at the combining audio and video. Also, buiding the whole inteface to make the code more robust is too hard for me alone, and they already have program that can do this online, so in the end, I drop it for a while. But this was a fun experience, and I tend to look farward to the next project in the future.</p>
+<p>My idea when making this project is to turn a real-life video into something more animated, and I was very closed until I stuck at the combining audio and video. Also, buiding the whole inteface to make the code more robust is too hard for me alone, and they already have program that can do this online, so in the end, I drop it for a while. But this was a fun experience, and I tend to look forward to the next project in the future.</p>
 
 
