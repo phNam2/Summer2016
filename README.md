@@ -58,8 +58,23 @@ And in the <a href="https://github.com/phNam2/Summer2016/blob/master/Converting_
 <br/>
 
 <h2>Part 3: Making video</h2>
-<p>
-<p/>
+<p>Video is the hardest of them all when I have to try many type of external libraries to decode the video. I finally found the jcodec, and I have imported it in my project. The first outcome was not that great because the frame color was not the same as the video. Therefore, I have to change the source code a little bit. <br/>
+In the end, I have done all the file inside the <a href="https://github.com/phNam2/Summer2016/blob/master/Converting_Image/src/experiment_video/Video_decode_jcodec.java">Video_decode_jcodec.java</a> file at the <strong>decodeVideo</strong> method. You can also change the rate of the picture, which mean the time beetween the frames to get the most precise number of frames for later recreation. Because there are like 67 frames for the shortest video, here are some of the frame samples:
+    <p>
+        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/video/frame_1.png" width="150px" height="150px" float="left" postion="relative"/>
+        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/video/frame_3.png" width="150px" height="150px" float="left" postion="relative"/>
+        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/video/frame_6.png" width="150px" height="150px" float="left" postion="relative"/>
+        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/video/frame_9.png" width="150px" height="150px" float="left" postion="relative"/>
+        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/video/frame_10.png" width="150px" height="150px" float="left" postion="relative"/>
+        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/video/frame_13.png" width="150px" height="150px" float="left" postion="relative"/>
+        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/video/frame_16.png" width="150px" height="150px" float="left" postion="relative"/>
+        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/video/frame_18.png" width="150px" height="150px" float="left" postion="relative"/>
+        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/video/frame_20.png" width="150px" height="150px" float="left" postion="relative"/>
+        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/video/frame_22.png" width="150px" height="150px" float="left" postion="relative"/>
+    </p>
+And also in that file, you can use the <strong>makeVideo</strong> method to make a video with no sound, because like the gif, I have not make a method to access folder yet. Here is a <a href="https://github.com/phNam2/Summer2016/blob/master/image/video/Pikachu.mp4">sample</a>.<br/>
+And for the audio, I also made <a href="https://github.com/phNam2/Summer2016/blob/master/Converting_Image/src/experiment_video/Audio.java">Audio.java</a> file that can extract the file out of the video. You can add the location of the mp4 file you want to extract and the mp3 you want to store. And here is the <a href="https://github.com/phNam2/Summer2016/blob/master/image/video/Pikachu.mp3">sample</a>.
+</p>
 
 
 
