@@ -19,15 +19,13 @@
         The first one is automatic convert, it is the <a href="https://github.com/phNam2/Summer2016/blob/master/Converting_Image/src/experiment/Automatic_Convert.java">Automatic_Convert.java</a> file and just like the name, it will make the original picture become more painting like and you don't need to change the code. Here is the result:
         <p><img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/pic/2.PNG" width="480px" height="270px"/></p>
     </li>
-
     <li><h4>Convert by choice</h4>
         This option was done by the <a href="https://github.com/phNam2/Summer2016/blob/master/Converting_Image/src/experiment/Control_Convert.java">Control_Convert.java</a> file. You can actually change the number in the file if you want to get to the range of color number and get the version of picture if you want. I originally plan to create a panel to do this easier, but then forget about it on the way. The range is in the <strong>Drawing</strong> method and change the range of the RGB. Here is the result with the range of 50:
         <p><img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/pic/3.PNG" width="480px" height="270px"/></p>
     </li>
-
 <li><h4>Double picture</h4>
 
-</li>
+</li>    
 <li><h4>Pencil sketch</h4>
 
 </li>
