@@ -38,22 +38,23 @@
 </ul>
 <br/>
 
-<h2>Part 1: Making gif</h2>
+<h2>Part 2: Making gif</h2>
 <p>When I finish up with the picture section, I started to thought about how about I can change the whole video into more painting like. So I decide to find out how to do it. The first sample I want to try with is gif. Obviously, I do not know how to do it myelf, so I find the external library to help me extract the gif file into frames. And the code I found are the <a href="https://github.com/phNam2/Summer2016/blob/master/Converting_Image/src/experiment_giff/GifDecoder.java">GifDecoder.java</a> and <a href="https://github.com/phNam2/Summer2016/blob/master/Converting_Image/src/experiment_giff/Giffer.java">Giffer.java</a>. I have inserted the link where I found them in the beggining of each file. And I did all of the decode in the <a href="https://github.com/phNam2/Summer2016/blob/master/Converting_Image/src/experiment_giff/Gif_View.java">Gif_View.java</a> file, at the <strong>printImages</strong> method. You can give the location of the gif file and the location you want to stores the pictures. And here we have the sample:
-    <p><img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/Converting_Image/sample2/dance.gif" width="100px" height="100px"/></p>
+    <p><img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/Converting_Image/sample2/dance.gif" width="200px" height="200px"/></p>
 And here is the result:
     <p>
-        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/gif/1.png" width="100px" height="100px" float="left" postion="relative"/>
-        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/gif/2.png" width="100px" height="100px" float="left" postion="relative"/>
-        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/gif/3.png" width="100px" height="100px" float="left" postion="relative"/>
-        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/gif/4.png" width="100px" height="100px" float="left" postion="relative"/>
-        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/gif/5.png" width="100px" height="100px" float="left" postion="relative"/>
-        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/gif/6.png" width="100px" height="100px" float="left" postion="relative"/>
-        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/gif/7.png" width="100px" height="100px" float="left" postion="relative"/>
-        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/gif/8.png" width="100px" height="100px" float="left" postion="relative"/>
-        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/gif/9.png" width="100px" height="100px" float="left" postion="relative"/>
+        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/gif/1.png" width="200px" height="200px" float="left" postion="relative"/>
+        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/gif/2.png" width="200px" height="200px" float="left" postion="relative"/>
+        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/gif/3.png" width="200px" height="200px" float="left" postion="relative"/>
+        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/gif/4.png" width="200px" height="200px" float="left" postion="relative"/>
+        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/gif/5.png" width="200px" height="200px" float="left" postion="relative"/>
+        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/gif/6.png" width="200px" height="200px" float="left" postion="relative"/>
+        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/gif/7.png" width="200px" height="200px" float="left" postion="relative"/>
+        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/gif/8.png" width="200px" height="200px" float="left" postion="relative"/>
+        <img alt="Image" title="icon" src="https://github.com/phNam2/Summer2016/blob/master/image/gif/9.png" width="200px" height="200px" float="left" postion="relative"/>
     </p>
 </p>
+<br/>
 
 
 
